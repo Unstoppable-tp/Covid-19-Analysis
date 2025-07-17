@@ -1,6 +1,6 @@
 
 # Covid-19-Dataset-Analysis with Excel
-
+This was done in 2022, as a started my data analysis journey since 2022. I had an issue with my main Gitub account, which was why i has to create this as a backup.
 ![Hold down 'ctrl' key and choose the first 4 columns, then 'right-click' and pick Unpivot Other Columns (2)](https://user-images.githubusercontent.com/88210780/179658254-ce6cbfd5-25cc-48d8-a36b-9bd85a8874ff.png)
 
 
